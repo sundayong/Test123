@@ -1,0 +1,8 @@
+spring:
+  data:
+    elasticsearch:
+      client:
+        reactive:
+          endpoints: 192.168.233.25:6902
+          username: elastic
+          password: pGyaAoJ1E0Wr366kBjgw
